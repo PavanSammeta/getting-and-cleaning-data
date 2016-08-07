@@ -53,5 +53,5 @@ Following are the main goals of this script:
 * features.txt
 * test/
 * train/
-
-The output is created in working directory with the name of tidy.txt
+5. Call ProcessData function present in run_analysis.R from console to launch processing of the raw data.
+6. The output is created in working directory with the name of tidy.txt
